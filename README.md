@@ -20,3 +20,5 @@
   <li>spam_classification.ipynb - ноутбук с кодом-решением</li>
   <li>submission.csv - проскореный тестовый файл</li>
 </ol>
+<h2>Примечание:</h2>
+ В spam_classification также используются модели Naive Bayes, Fasttext, BERT. Они не были загружены в репозиторий, так как очень большие. 
