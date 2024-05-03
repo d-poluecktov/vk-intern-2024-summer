@@ -1,0 +1,1 @@
+{"tokenizer": "TfIdf", "classifier": "BernoulliNB", "alpha": 0.9773569108895576, "valid_score": 0.9799962706292137, "test_score": 0.981925087108014}
